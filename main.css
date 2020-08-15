@@ -1,0 +1,7 @@
+.hero.is-success {
+    background-color: none;
+    color: #fff;
+    background-image: url('spaceman.jpeg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
